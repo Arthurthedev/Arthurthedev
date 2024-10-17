@@ -1,5 +1,9 @@
-## Bem-vindo(a) ao meu perfil, meu nome é Arthur! 😁
+## Olá! Eu sou o Arthur 👋
+- Sou um programador iniciante de 19 anos, apaixonado por tecnologia e desenvolvimento de software. Tenho uma boa experiência em HTML e CSS, e atualmente estou mergulhando no mundo do JavaScript. Estou sempre buscando aprender novas linguagens e aprimorar minhas habilidades para criar soluções criativas e eficientes.
 
+- 🔧 Tecnologias: HTML, CSS, JavaScript <br>
+- 📚 Aprendizado contínuo: Sempre em busca de novos desafios e conhecimento. <br>
+- 💻 Projetos: Confira meus repositórios para ver o que estou desenvolvendo!
  <div>
    <a href="https://github.com/Arthurthedev">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurthedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
