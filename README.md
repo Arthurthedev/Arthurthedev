@@ -1,4 +1,4 @@
-## Olá! Eu sou o Arthur 👋
+## Olá! Eu sou o Arthur 😄👋
 - Sou um programador iniciante de 19 anos, apaixonado por tecnologia e desenvolvimento de software. Tenho uma boa experiência em HTML e CSS, e atualmente estou mergulhando no mundo do JavaScript. Estou sempre buscando aprender novas linguagens e aprimorar minhas habilidades para criar soluções criativas e eficientes.
 
 - 🔧 Tecnologias: HTML, CSS, JavaScript <br>
